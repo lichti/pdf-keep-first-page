@@ -33,7 +33,8 @@ python3 pdf_keep_first_page.py
 
 ### Check the Output Files
 The processed files will be saved in the `output` directory.
-```
+
+### Dependencies
 
 Ensure that the `requirements.txt` file is present in the repository and contains the necessary dependencies, such as `PyPDF2`. Here is an example of what the `requirements.txt` could look like:
 
